@@ -23,7 +23,7 @@ pip install -r requirements.txt
 - `logs/`: Thư mục chứa log files
 - `figures/`: Thư mục chứa đồ thị và animation
 
-> **Lưu ý:** Các file log trong thư mục `logs/` và file `results/all_results.json` được lưu trữ dưới máy local và không được commit lên GitHub do kích thước file quá lớn (vượt quá giới hạn 100MB của GitHub). Các file này đã được thêm vào `.gitignore`.
+> **Lưu ý:** Log file `results/all_results.json` được lưu trữ dưới máy local và không được commit lên GitHub do kích thước file quá lớn (vượt quá giới hạn 100MB của GitHub). Các file này đã được thêm vào `.gitignore`.
 
 ## Sử dụng
 

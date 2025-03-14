@@ -27,10 +27,6 @@ var/
 results/all_results.json
 results/*.json
 
-# Logs
-logs/
-logs/*.json
-
 # Virtual Environment
 venv/
 ENV/
